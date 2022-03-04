@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandy1206/Nodejs-Microservices.git"
+  },
+  "author": "Sandip Arsude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandy1206/Nodejs-Microservices/issues"
+  },
+  "homepage": "https://github.com/sandy1206/Nodejs-Microservices#readme"
+}
